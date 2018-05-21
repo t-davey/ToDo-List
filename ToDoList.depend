@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1456303495 source:d:\users\travis\documents\mega\programming\todolist\main.cpp
+	"List.h"
+	"Viewer.h"
+
+1456461220 d:\users\travis\documents\mega\programming\todolist\list.h
+	<vector>
+	<string>
+	<iostream>
+
+1456460644 source:d:\users\travis\documents\mega\programming\todolist\list.cpp
+	"List.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1456460824 source:d:\users\travis\documents\mega\programming\todolist\viewer.cpp
+	"Viewer.h"
+	"List.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1456303017 d:\users\travis\documents\mega\programming\todolist\viewer.h
+	"List.h"
+
